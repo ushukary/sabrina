@@ -50,11 +50,6 @@
 }
 
 
-.profile-picture {
-    width: 200px;
-    border-radius: 10px;
-}
-
 
 body {
     background: linear-gradient(135deg, rgb(173, 216, 230), rgb(135, 206, 250));
